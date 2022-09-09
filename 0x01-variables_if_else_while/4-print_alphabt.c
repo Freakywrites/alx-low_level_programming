@@ -16,10 +16,9 @@ int main(void)
 
 	for (alp = 'a'; alp <= 'z'; alp++)
 	{
-		if (alp != e && alp != 0)
+		if (alp != e && alp != q)
 			putchar(alp);
 	}
 	putchar('\n');
-	return (o);
+	return (0);
 	}
-g
