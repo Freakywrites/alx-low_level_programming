@@ -7,11 +7,11 @@
  * Return: Always 0 (Success)
  *
  **/
-gnt main(void)
+int main(void)
 {
 	char upper;
 
-	for (upper = 'a'; upper <= 'z'; uppeer++)
+	for (upper = 'a'; upper <= 'z'; upper++)
 		putchar(upper)
 	for (upper = 'A'; upper <= 'Z'; upper++)
 		putchar(upper);
