@@ -17,6 +17,9 @@ int main(void)
 	for (alp = 'a'; alp <= 'z'; alp++)
 	{
 		if (alp != e && alp != 0)
-			putchar(alp)
+			putchar(alp);
+	}
+	putchar('\n');
+	return (o);
 	}
 g
