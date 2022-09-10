@@ -1,4 +1,6 @@
 
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -11,13 +13,13 @@
 
 int main(void)
 {
-	int p;
+	int d;
 
-	for (p = 0; p < 100; p++)
+	for (d = 0; d < 100; d++)
 	{
-		putchar((p / 10) + '0');
-		putchar((p % 10) + '0');
-		if (p != 99)
+		putchar((d / 10) + '0');
+		putchar((d % 10) + '0');
+		if (d != 99)
 		{
 			putchar(',');
 			putchar(' ');
