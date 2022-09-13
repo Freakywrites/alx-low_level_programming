@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet x10 - prints a to z in 10 place
+ * print_alphabet_x10 - prints a to z in 10 place
  *
  * return: Always 0 (Success)
  **/
