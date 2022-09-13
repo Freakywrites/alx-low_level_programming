@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print alphabet x10 -> prints the lowercase letters
+ * print_alphabet x10 - prints a to z in 10 place
  *
  * return: Always 0 (Success)
  **/
