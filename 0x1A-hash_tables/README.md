@@ -1,1 +1,1 @@
-This is a project for hash tablesin C
+This is a project for hash tables
